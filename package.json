@@ -1,6 +1,10 @@
 {
   "name": "fish-audio-proxy",
   "version": "1.0.0",
-  "description": "Fish Audio API Proxy for Vercel Edge",
+  "description": "Fish Audio API Proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
   "private": true
 }
